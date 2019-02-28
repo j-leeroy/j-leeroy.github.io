@@ -8,9 +8,7 @@ At my current company, H-E-B, my manager keeps tabs on our performance by tracki
 
 My program scans this file and several others to graph UPH against a particular User over a 4 week period.
 ##### Graph Example
-<p>
-    <img src="https://github.com/j-leeroy/UPH_Data/blob/master/GraphofPartnerUPH.png" width="650" height="400" />
-</p>
+![](https://github.com/j-leeroy/UPH_Data/blob/master/GraphofPartnerUPH.png?raw=true)
 
 Now instead of calculating the metrics by hand you have a nice visual represenation of changes in productivity. 
 
