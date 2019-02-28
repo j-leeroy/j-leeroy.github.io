@@ -4,15 +4,11 @@ Below is a preview of some my personal projects I have done to better my develop
 ## Graphing Work Performance
 At my current company, H-E-B, my manager keeps tabs on our performance by tracking certain metrics. The current method is time consuming, by printing out said metrics and calculating the difference compared to last weeks. I created a program that takes a CSV file and plots it using Python and Pyplot.
 ##### CSV file sample
-![](
-        UPH_Data/CSV_Sample_Image.PNG
-      )
+![](UPH_Data/CSV_Sample_Image.PNG)
 
 My program scans this file and several others to graph UPH against a particular User over a 4 week period.
 ##### Graph Example
-![](
-        UPH_Data/GraphofPartnerUPH.png
-      )
+![](UPH_Data/GraphofPartnerUPH.png)
 
 Now instead of calculating the metrics by hand you have a nice visual represenation of changes in productivity. 
 
