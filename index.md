@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to my Github Page
+Below is a preview of some my personal projects I have done to better my developer skills.
 
-You can use the [editor on GitHub](https://github.com/j-leeroy/j-leeroy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Graphing Work Performance
+At my current company, H-E-B, my manager keeps tabs on our performance by tracking certain metrics. The current method is time consuming, by printing out said metrics and calculating the difference compared to last weeks. I created a program that takes a CSV file and plots it using Python and Pyplot.
+##### CSV file sample
+![CSV_FILE](https://github.com/j-leeroy/UPH_Data/blob/master/CSV_Sample_Image.PNG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My program scans this file and several others to graph UPH against a particular User over a 4 week period.
+##### Graph Example
+![Graph Sample](https://github.com/j-leeroy/UPH_Data/blob/master/GraphofPartnerUPH.png)
 
-### Markdown
+Now instead of calculating the metrics by hand you have a nice visual represenation of changes in productivity. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Scraping Social Media Reddit
+Was curious to see what users on Reddit are saying about my current company H-E-B.This is my first attempt at scraping for data on the web using PRAW api. The program searches the subreddit /Texas for mentions of H-E-B and returns a CSV file with Title, Author, URL link, and time stamp of top 100 post. The program also stores the information in a Dataframe that can manipulate the metrics however needed.
+As of 2-27-19 here are the top 100 post on subreddit /Texas mentioning H-E-B.
+[HEB_CSV_FILE](https://github.com/j-leeroy/Reddit_tutorial/blob/master/venv/RedditHEB.csv)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## More Projects
+View all my other repositories on my [Github page](https://github.com/j-leeroy)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/j-leeroy/j-leeroy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact Me
+Any questions please contact me at jlgarza10@gmail.com
