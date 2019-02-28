@@ -5,13 +5,13 @@ Below is a preview of some my personal projects I have done to better my develop
 At my current company, H-E-B, my manager keeps tabs on our performance by tracking certain metrics. The current method is time consuming, by printing out said metrics and calculating the difference compared to last weeks. I created a program that takes a CSV file and plots it using Python and Pyplot.
 ##### CSV file sample
 <p>
-    <img src="https://raw.github.com/j-leeroy/UPH_Data/blob/master/CSV_Sample_Image.PNG" width="500" height="300" />
+    <img src="https://raw.github.com/j-leeroy/UPH_Data/blob/master/CSV_Sample_Image.PNG" width="300" height="200" />
 </p>
 
 My program scans this file and several others to graph UPH against a particular User over a 4 week period.
 ##### Graph Example
 <p>
-    <img src="https://github.com/j-leeroy/UPH_Data/blob/master/GraphofPartnerUPH.png" width="500" height="300" />
+    <img src="https://github.com/j-leeroy/UPH_Data/blob/master/GraphofPartnerUPH.png" width="650" height="400" />
 </p>
 
 Now instead of calculating the metrics by hand you have a nice visual represenation of changes in productivity. 
