@@ -2,9 +2,9 @@
 Below is a preview of some my personal projects I have done to better my developer skills.
 
 ## Graphing Work Performance
-At my current company, H-E-B, my manager keeps tabs on our performance by tracking certain metrics. The current method is time consuming, by printing out said metrics and calculating the difference compared to last weeks. I created a program that takes a CSV file and plots it using Python and Pyplot.
+At my current work location my manager tracks our work performance by measuring certain metrics e.g. how many units we scan in per hour or UPH. The current method is time consuming, by printing out said metrics and calculating the difference compared to last weeks. I created a program that takes a CSV file and plots it using Python and Pyplot.
 ##### CSV file sample
-![](https://github.com/j-leeroy/UPH_Data/blob/master/CSV_Sample_Image.PNG?raw=true)
+![](https://github.com/j-leeroy/UPH_Data/blob/master/CSV_SAMPLE.PNG?raw=true)
 
 My program scans this file and several others to graph UPH against a particular User over a 4 week period.
 ##### Graph Example
