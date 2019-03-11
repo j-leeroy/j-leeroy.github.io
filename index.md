@@ -8,7 +8,7 @@ A retail company that fulfills ecommerce orders, tracks work performance by meas
 
 My program scans this file and several others to graph UPH against a particular User over a 4 week period.
 ##### Graph Example
-![](https://github.com/j-leeroy/UPH_Data/blob/master/GraphofPartnerUPH.png?raw=true)
+![](https://github.com/j-leeroy/UPH_Data/blob/master/GraphofUPH.png?raw=true)
 
 Now instead of calculating the metrics by hand you have a nice visual represenation of changes in productivity. 
 
