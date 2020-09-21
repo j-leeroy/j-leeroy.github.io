@@ -4,7 +4,7 @@ Below is a preview of some my personal projects I have done to better my develop
 ## Graphing Work Performance
 A retail company that fulfills ecommerce orders, tracks work performance by measuring certain metrics e.g. how many units are scanned in per hour or UPH. The current method is time consuming, by printing out said metrics and calculating the difference compared to last weeks by hand. I created a program that takes a CSV file and plots it using Python and Pyplot.
 ##### CSV file sample
-![](https://github.com/j-leeroy/UPH_Data/blob/master/tabula-09-17_09-24.csv?raw=true)
+![eStore Partner Metrics](https://github.com/j-leeroy/UPH_Data/blob/master/tabula-09-17_09-24.csv?raw=true)
 
 My program scans this file and several others to graph UPH against a particular User over a 4 week period.
 ##### Graph Example
