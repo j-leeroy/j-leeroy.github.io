@@ -13,8 +13,8 @@ My program scans this file and several others to graph UPH against a particular 
 Now instead of calculating the metrics by hand you have a nice visual represenation of changes in productivity. 
 
 ## Scraping Social Media Reddit
-Was curious to see what users on Reddit are saying an online grocercy store.This is my first attempt at scraping for data on the web using PRAW api. The program searches the subreddit /Texas for mentions an online grocery store and returns a CSV file with Title, Author, URL link, and time stamp of top 100 post. The program also stores the information in a Dataframe that can manipulate the metrics however needed.
-As of 2-27-19 here are the top 100 post on subreddit /Texas of a grocery store.
+During the Texas Freeze, many users on r/texas had a lot to say about there friendly H-E-B grocery store. Using the PRAW api I searched through r/texas to return posts mentioning H-E-B during the Big Freeze. The program returns a CSV file with Title, Author, URL link, and time stamp of said posts. The program also stores the information in a Dataframe that can manipulate the metrics however needed.
+As of 2-28-21 here are the post on subreddit /texas mentioning H-E-B.
 [CSV_FILE](https://github.com/j-leeroy/Reddit_tutorial/blob/master/venv/RedditHEB.csv)
 
 
